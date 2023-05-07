@@ -15,11 +15,11 @@
 
 <br>
 
-![Netflix Mobile Navigation]()
+![Netflix Mobile Navigation](images/Netflix-Mobile-Navigation.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Netflix-Mobile-Navigation/)
 
 <br>
 
